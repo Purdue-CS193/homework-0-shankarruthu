@@ -15,6 +15,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+# My favorite things about CS193: 
 - The teacher
 - The Classroom
 - The discussions
